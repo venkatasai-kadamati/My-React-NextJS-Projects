@@ -13,6 +13,6 @@
 
 **3. BigBox**: [GitHub](https://github.com/Radiant690/bigbox) | [Demo]()
 
-**4. Docster**: [GitHub](https://github.com/Radiant690/yomiko) | [Demo]()
+**4. Docster**: [GitHub](https://github.com/Radiant690/Docster) | [Demo]()
 
 
