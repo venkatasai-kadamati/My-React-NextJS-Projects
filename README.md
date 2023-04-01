@@ -1,5 +1,5 @@
-# My-Flutter-Projects
-😎 This Repository documents all my projects that helped me aid my praticall implementation of Flutter & Dart. Each project is modular enough to be considered as a wholesome project with great reusablity and accessibilty in sync.
+# My-React-Projects
+😎 This Repository documents all my projects that helped me aid my praticall implementation of React & Redux. Each project is modular enough to be considered as a wholesome project with great reusablity and accessibilty in sync.
 
 ➡️ I am going to use this repo as a way to gather all the product repos in one place. This way, if you interested in any specific project, you can find all of them in one place instead of searching through my entire GitHub profile.
 
