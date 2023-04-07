@@ -7,9 +7,9 @@
 
 ## The Projects
 
-**1. VentFox**: [GitHub](https://github.com/Radiant690/ventfox) | [Demo]()
+**1. InsightHUB**: [GitHub](https://github.com/Radiant690/InsightHUB) | [Demo]()
 
-**2. NavigateX**: [GitHub](https://github.com/Radiant690/navigateX) | [Demo]()
+**2. **: [GitHub](https://github.com/Radiant690/) | [Demo]()
 
 **3. BigBox**: [GitHub](https://github.com/Radiant690/bigbox) | [Demo]()
 
