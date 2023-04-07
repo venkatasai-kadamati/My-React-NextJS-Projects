@@ -9,10 +9,10 @@
 
 **1. InsightHUB**: [GitHub](https://github.com/Radiant690/InsightHUB) | [Demo]()
 
-**2. **: [GitHub](https://github.com/Radiant690/) | [Demo]()
+**2. Project2**: [GitHub](https://github.com/Radiant690/) | [Demo]()
 
-**3. BigBox**: [GitHub](https://github.com/Radiant690/bigbox) | [Demo]()
+**3. Project3**: [GitHub](https://github.com/Radiant690/bigbox) | [Demo]()
 
-**4. Docster**: [GitHub](https://github.com/Radiant690/Docster) | [Demo]()
+**4. Project4**: [GitHub](https://github.com/Radiant690/Docster) | [Demo]()
 
 
